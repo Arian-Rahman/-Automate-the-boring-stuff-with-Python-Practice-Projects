@@ -35,7 +35,7 @@ for col in range (len(grid[0])):    # accessed the col in row[0] manually , as r
 
 
 
-
+#note  thses are experimental codes , serves no real purpose here 
 
 
 
